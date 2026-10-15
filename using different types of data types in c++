@@ -1,0 +1,21 @@
+#include <iostream>
+using namespace std;
+
+int main ()
+{
+    int age = 20;
+    float height = 5.11;
+    double pecentage = 98.509;
+    char grade = 'A';
+
+    string name = "Gursewak";
+
+    cout << "Name: " << name << endl;
+    cout << "Age: " << age << endl;
+    cout << "Height: " << height << endl;
+    cout << "Percentage: " << pecentage << endl;
+    cout << "Grade: " << grade << endl;
+    
+
+    return 0;
+}
